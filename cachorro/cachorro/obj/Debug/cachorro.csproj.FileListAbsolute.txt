@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\cachorro\cachorro\bin\Debug\cachorro.exe.config
+C:\Users\Aluno\source\repos\cachorro\cachorro\bin\Debug\cachorro.exe
+C:\Users\Aluno\source\repos\cachorro\cachorro\bin\Debug\cachorro.pdb
+C:\Users\Aluno\source\repos\cachorro\cachorro\obj\Debug\cachorro.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\cachorro\cachorro\obj\Debug\cachorro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\cachorro\cachorro\obj\Debug\cachorro.Form1.resources
+C:\Users\Aluno\source\repos\cachorro\cachorro\obj\Debug\cachorro.Properties.Resources.resources
+C:\Users\Aluno\source\repos\cachorro\cachorro\obj\Debug\cachorro.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\cachorro\cachorro\obj\Debug\cachorro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\cachorro\cachorro\obj\Debug\cachorro.exe
+C:\Users\Aluno\source\repos\cachorro\cachorro\obj\Debug\cachorro.pdb
